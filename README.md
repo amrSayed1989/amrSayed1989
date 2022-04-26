@@ -8,7 +8,7 @@
 </div>
 
 <img src="https://amrdev.tech/amrdev.png" width="500px" align="right">
-<img src="https://user-images.githubusercontent.com/47950134/164933833-2d6c9c96-4e17-4c6f-960a-56130bbb4d32.png" width="300px" align="right">
+<img src="https://amrdev.tech/images/logo_name.png" width="300px" align="right">
  [avataaars 1](#)
  
 [svg](https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg?size=10)
