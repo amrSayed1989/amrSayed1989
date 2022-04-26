@@ -22,17 +22,13 @@
 
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b>About me </i></b></h2>
 
-- 🌱 I’m currently learning **Three Js, C#, Java Spring Boot**
-
-- 💁‍ I love developing websites and web applications.
+- 🌱 I’m currently learning **Three , Java Spring Boot**
 
 - 🎨 I enjoy drawing and painting. 
 
-- 🎵 I love listening to lo-fi & ambient music.
+- 💁‍ I love developing websites and web applications.
 
-- 👨‍💻 All of my projects are available at [my portfolio](#)
-
-- 💬 Ask me about **c#, Flutter**
+- 💬 Ask me about **C#, Flutter**
 
 - 📫 How to reach me **amr@amrdev.tech**
 
