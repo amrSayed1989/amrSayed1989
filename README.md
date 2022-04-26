@@ -36,9 +36,9 @@
 
 - 💬 Ask me about **React, Unity**
 
-- 📫 How to reach me **dalia.hewedy@gmail.com**
+- 📫 How to reach me **amr@amrdev.tech**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1CYqharjxDlPxbNTEUNsOb5AWUuShDjOu/view?usp=sharing)
+- 📄 Know about my experiences [here](#)
 
 <h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
