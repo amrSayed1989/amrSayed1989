@@ -22,7 +22,7 @@
 
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b>About me </i></b></h2>
 
-- 🌱 I’m currently learning **Three , Java Spring Boot**
+- 🌱 I’m currently learning **Three,Java Spring Boot**
 
 - 🎨 I enjoy drawing and painting. 
 
