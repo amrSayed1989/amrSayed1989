@@ -56,20 +56,7 @@
 <h2> Git Activeness <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="38px alt="Git"> </h2>
 
 
-| <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=daliaw&show_icons=true&locale=en&show_icons=true&theme=dracula" alt="daliaw" /></p>   | 
-|----------|
-| <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daliaw&show_icons=true&theme=dracula" alt="daliaw" />
-| <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daliaw&show_icons=true&locale=en&layout=compact&show_icons=true&theme=dracula" alt="daliaw" /></p> | 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=daliaw&theme=redical&hide_border=true&area=true)|
-
-
-
-<h2> Git profile Trophies <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="38px alt="Git trophies"> </h2>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daliaw&show_icons=true&theme=dracula" alt="daliaw" /></a> </p>
-
------
-Credits: [Dalia Walid](https://github.com/DaliaW)
+| 
 
 Last Edited on: 23/04/2022
 
