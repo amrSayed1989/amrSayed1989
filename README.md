@@ -9,17 +9,16 @@
 
 <img src="https://amrdev.tech/amrdev.png" width="500px" align="right">
 <img src="https://amrdev.tech/images/logo_name.png" width="300px" align="right">
- [avataaars 1](#)
- 
-[svg](https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg?size=10)
+
+
 
 <div align="left">
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+<img src="https://media0.giphy.com/media/C9kK1lR4v93y9mOR8s/giphy.gif?cid=ecf05e47pdyc3na0bty3aefl1epyi2msticfayz2vr4ip6cs&rid=giphy.gif&ct=g" width="120px">
+  <h3>رمضان كريم</h3>
 </div>
-<p align="left"> <a href="#" target="blank"><img src="#" alt="AmrDev" /></a> </p>
-</p>
 
-<p align="left"> <img src=#" alt="AmrDev" /> </p>
+
+
 
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b>About me </i></b></h2>
 
