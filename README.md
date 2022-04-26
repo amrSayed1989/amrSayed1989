@@ -8,12 +8,11 @@
 </div>
 
 <img src="https://amrdev.tech/amrdev.png" width="500px" align="right">
-<!-- <img src="https://user-images.githubusercontent.com/47950134/164933833-2d6c9c96-4e17-4c6f-960a-56130bbb4d32.png" width="300px" align="right">
- -->
-<!-- ![avataaars 1](https://user-images.githubusercontent.com/47950134/164933878-eb092dac-c745-49a5-99a5-738c1df9fd6f.png)
- -->
-<!-- ![svg](https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg?size=10)
- -->
+<img src="https://user-images.githubusercontent.com/47950134/164933833-2d6c9c96-4e17-4c6f-960a-56130bbb4d32.png" width="300px" align="right">
+ [avataaars 1](https://user-images.githubusercontent.com/47950134/164933878-eb092dac-c745-49a5-99a5-738c1df9fd6f.png)
+ 
+[svg](https://app.svgator.com/assets/svgator.webapp/log-in-girl.svg?size=10)
+
 <div align="left">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 </div>
