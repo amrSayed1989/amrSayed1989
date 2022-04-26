@@ -5,7 +5,6 @@
 <div align="center">
   
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Computer+Engineering+Student;A+Passionate+Front-End+dev;UI%2FUX+Designer;AR%2FXR+Enthusiast;Interested+in+Open+CV;Artist;Game-dev+Enthusiast)](https://git.io/typing-svg)
-  
 </div>
 
 <img src="https://user-images.githubusercontent.com/47950134/164934405-d7b46e3b-09f0-4cc6-9c36-2fe153c0d775.png" width="500px" align="right">
@@ -18,10 +17,10 @@
 <div align="left">
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 </div>
-<p align="left"> <a href="https://twitter.com/daliawalid9" target="blank"><img src="https://img.shields.io/twitter/follow/daliawalid9?logo=twitter&style=for-the-badge" alt="daliawalid9" /></a> </p>
+<p align="left"> <a href="#" target="blank"><img src="#" alt="AmrDev" /></a> </p>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daliaw&label=Profile%20views&color=0e75b6&style=flat" alt="daliaw" /> </p>
+<p align="left"> <img src=#" alt="AmrDev" /> </p>
 
 <h2 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<i><b>About me </i></b></h2>
 
@@ -33,7 +32,7 @@
 
 - 🎵 I love listening to lo-fi & ambient music.
 
-- 👨‍💻 All of my projects are available at [my portfolio](https://daliawalid.netlify.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](#)
 
 - 💬 Ask me about **React, Unity**
 
@@ -43,10 +42,10 @@
 
 <h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="center">
-<a href="https://twitter.com/daliawalid9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daliawalid9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dalia-walid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dalia-walid" height="30" width="40" /></a>
-<a href="https://www.behance.net/daliawalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="daliawalid" height="30" width="40" /></a>
-<a href="https://codepen.io/daliaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="daliaw" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AmrDev" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AmrDev" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="AmrDev" height="30" width="40" /></a>
+<a href="https://codepen.io/daliaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="AmrDev" height="30" width="40" /></a>
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
