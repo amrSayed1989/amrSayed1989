@@ -34,7 +34,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](#)
 
-- 💬 Ask me about **React, Unity**
+- 💬 Ask me about **c#, Flutter**
 
 - 📫 How to reach me **amr@amrdev.tech**
 
