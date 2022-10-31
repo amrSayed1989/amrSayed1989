@@ -7,10 +7,6 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&lines=Computer+Engineering+Student;A+Passionate+Front-End+dev;UI%2FUX+Designer;AR%2FXR+Enthusiast;Interested+in+Open+CV;Artist;Game-dev+Enthusiast)](https://git.io/typing-svg)
 </div>
 
-<img src="https://amrdev.tech/amrdev.png" width="500px" align="right">
-<img src="https://amrdev.tech/images/logo_name.png" width="300px" align="right">
-
-
 
 <div align="left">
 <img src="https://media0.giphy.com/media/C9kK1lR4v93y9mOR8s/giphy.gif?cid=ecf05e47pdyc3na0bty3aefl1epyi2msticfayz2vr4ip6cs&rid=giphy.gif&ct=g" width="120px">
